@@ -85,9 +85,7 @@ logo = """
 
            Facebook: SYED RAHEEM
 
-           WHATSAPP: +923179853474                                                                                                                              
-
-      دعوت تبلیغ زندہ باد
+           WHATSAPP: +923179853474                                                                                                                           دہ باد
 
                                                                                      
 
