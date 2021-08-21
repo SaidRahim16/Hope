@@ -84,8 +84,8 @@ logo = """
 \033[1;92m Owner  : SYED RAHIM (FACEBOOK CLONE WITH SYED)
 
            Facebook: SYED RAHEEM
-
-                                                                                                                               دہ باد
+            WhatsApp :+923179853474
+                                                                                                                                                                    
 
                                                                                      
 
